@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-# Ссылка на первую версию страницы (тест должен проходить)
+
 link = "http://suninjuly.github.io/registration1.html"
 
 try:
